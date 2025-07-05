@@ -31,18 +31,6 @@ Yenilikçi çözümlere katkıda bulunun veya geliştirme önerileri sunun.
 Learn through examples and step-by-step guides.
 Örnekler ve adım adım rehberlerle öğrenin.
 
-Getting Started / Başlarken
-Clone the repository and explore the folders corresponding to your interests:
-Depoyu klonlayın ve ilgi alanlarınıza göre klasörleri inceleyin:
-
-bash
-Kopyala
-Düzenle
-git clone https://github.com/YourUsername/AiaNexus.git
-cd AiaNexus
-Each project has its own README with setup and usage instructions.
-Her projenin kurulumu ve kullanımı için kendi README dosyası bulunmaktadır.
-
 Let’s Connect / İletişimde Kalalım
 I’m always open to collaboration, questions, and feedback. Feel free to open issues or reach out!
 Her zaman iş birliğine, sorulara ve geri bildirimlere açığım. İsterseniz issue açabilir veya bana ulaşabilirsiniz!
